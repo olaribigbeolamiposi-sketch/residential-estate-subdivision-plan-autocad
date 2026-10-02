@@ -201,7 +201,7 @@ The subdivision layout and setbacks shown are illustrative only and should not b
 
 ## Author
 
-**[Your Name]**
+**Olaribigbe Olamiposi**
 
 Surveying & Geo-Informatics  
 AutoCAD | GIS | Geospatial Analysis
