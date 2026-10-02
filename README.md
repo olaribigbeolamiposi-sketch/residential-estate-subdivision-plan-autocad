@@ -33,7 +33,6 @@ The final drawing was prepared as an A3 technical sheet at a scale of 1:500.
 - **Internal Road Area:** 1,000 m²
 
 ---
-
 ## Boundary Coordinates
 
 | Point | Easting (m) | Northing (m) |
